@@ -1,0 +1,10 @@
+.countries-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.visit{
+    background-color: bisque;
+    color: black;
+}
